@@ -118,3 +118,4 @@ artifacts/
 /src/Adaptive.ReactiveTrader.App/ReactiveTrader/node_modules
 /src/Adaptive.ReactiveTrader.App/ReactiveTrader/platforms/android/assets/www
 /src/Adaptive.ReactiveTrader.App/ReactiveTrader/platforms/android/ant-build
+src/Adaptive.ReactiveTrader.App/ReactiveTrader/platforms/android/CordovaLib/ant-build/build.prop
